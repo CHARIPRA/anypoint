@@ -36,8 +36,7 @@
 							<artifactId>mysql-connector-java</artifactId>
 						</sharedLibrary>
 					</sharedLibraries>
-				</configuration>
-				<configuration>
+				
 					<cloudHubDeployment>
 <uri>https://anypoint.mulesoft.com
 <muleVersion>4.4.0</muleVersion>
