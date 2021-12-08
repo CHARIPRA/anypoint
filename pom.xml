@@ -37,6 +37,25 @@
 						</sharedLibrary>
 					</sharedLibraries>
 				</configuration>
+				<configuration>
+					<cloudHubDeployment>
+<uri>https://anypoint.mulesoft.com
+<muleVersion>4.4.0</muleVersion>
+<username>charipra</username>
+<password>YMB!cd*794</password>
+<applicationName>am-sample-testing</applicationName>
+<environment>Sandbox</environment>
+<workers>1</workers>
+<workerType>MICRO</workerType>
+<objectStoreV2>true</objectStoreV2>
+<properties>
+<anypoint.platform.analytics_base_uri>https://analytics-ingest.eu1.anypoint.mulesoft.com</anypoint.platform.analytics_base_uri>
+<anypoint.platform.client_id>e7fa5c6a3e9b4002992118624f5b243d</anypoint.platform.client_id>
+<anypoint.platform.client_secret>3A4DdACCE61747beac4f74CF33e04CF6</anypoint.platform.client_secret>
+<anypoint.platform.base_uri>https://eu1.anypoint.mulesoft.com</anypoint.platform.base_uri>
+</properties>
+</cloudHubDeployment>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
