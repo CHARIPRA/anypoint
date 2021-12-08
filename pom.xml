@@ -38,7 +38,7 @@
 					</sharedLibraries>
 				
 					<cloudHubDeployment>
-<uri>https://anypoint.mulesoft.com
+						<uri>https://anypoint.mulesoft.com</uri>
 <muleVersion>4.4.0</muleVersion>
 <username>charipra</username>
 <password>YMB!cd*794</password>
